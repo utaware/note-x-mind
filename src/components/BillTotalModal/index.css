@@ -1,0 +1,6 @@
+.total-tag-list {
+  margin: 0 0 1em;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
